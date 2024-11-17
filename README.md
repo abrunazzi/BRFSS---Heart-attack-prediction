@@ -13,3 +13,6 @@ The project is organized as follows:
     - Stacked Ensembles
 - Evaluation: Performance metrics include accuracy, precision, recall, F1 score, and area under the ROC curve (AUC).
 
+
+
+(the file size limitation precludes the uploading of the KNIME workflow, feel free to contact me,  I will be glad to provide you with a link to access it.)
